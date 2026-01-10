@@ -1,0 +1,227 @@
+000:00:00 MS2
+Would you give that back to me?
+
+000:00:02 MS2
+Security blanket.
+
+000:00:03 MS2
+Hmm.
+
+000:00:07 CDR
+Two minutes downstairs; you gotta watch running down there?
+
+000:00:08 NASA
+Two minutes till launch.
+
+000:00:18 PLT
+OK there goes the lox arm.
+
+000:00:19 NASA
+Liquid oxygen supply arm to ET.
+
+000:00:19 CDR
+Goes the beanie cap.
+
+000:00:20 NASA
+Liquid oxygen vent cap.
+
+000:00:21 MS1
+Doesn't it go the other way?
+
+000:00:26 MS1
+Now I see it; I see it.
+
+000:00:26 PLT
+God I hope not Ellison.
+
+000:00:27 MS1
+I couldn't see it moving; it was behind the center screen.
+
+000:00:28 NASA
+Obstructed view of liquid oxygen supply arm.
+
+000:00:28 NASA
+Seat restraints.
+
+000:00:36 PLT
+What for?
+
+000:00:37 CDR
+I won't lock mine; I might have to reach something.
+
+000:00:41 PLT
+Ooh kaaaay.
+
+000:01:01 MS1
+Dick's thinking of somebody there.
+
+000:01:02 CDR
+Unhuh.
+
+000:01:06 CDR
+One minute downstairs.
+
+000:01:07 NASA
+One minute till launch.
+
+000:01:13 MS2
+Cabin Pressure is probably going to give us an alarm.
+
+000:01:15 CDR
+OK.
+
+000:01:18 CDR
+OK there.
+
+000:01:22 PLT
+Alarm looks good.
+
+000:01:23 NASA
+Cabin pressure is acceptable.
+
+000:01:23 CDR
+OK.
+
+000:01:25 PLT
+Ullage pressures are up.
+
+000:01:26 NASA
+External tank ullage pressure.
+
+000:01:31 PLT
+Right engine helium tank is just a little bit low.
+
+000:01:32 NASA
+SSME supply helium pressure.
+
+000:01:33 CDR
+It was yesterday, too.
+
+000:01:34 PLT
+OK.
+
+000:01:35 CDR
+Thirty seconds down there.
+
+000:01:36 NASA
+30 seconds till launch.
+
+000:01:40 PLT
+Remember the red button when you make a roll call.
+
+000:01:41 NASA
+Precautionary reminder for communications configuration.
+
+000:01:42 CDR
+I won't do that; thanks a lot.
+
+000:01:50 CDR
+Fifteen.
+
+000:01:51 NASA
+15 seconds till launch.
+
+000:01:59 CDR
+There they go guys.
+
+000:02:00 NASA
+SSME Ignition.
+
+000:02:00 NASA
+SSME thrust level at 100% for all 3 engines.
+
+000:02:05 MS2
+Aaall riiight.
+
+000:02:06 PLT
+Here we go.
+
+000:02:07 NASA
+Vehicle motion.
+
+000:02:12 CDR
+Houston, Challenger roll program.
+
+000:02:13 NASA
+Initiation of vehicle roll program.
+
+000:02:16 PLT
+Go you Mother.
+
+000:02:19 MS1
+LVLH.
+
+000:02:20 MS2
+(Expletive) hot.
+
+000:02:21 CDR
+Ooohh-kaaay.
+
+000:02:24 PLT
+Looks like we've got a lotta wind here today.
+
+000:02:25 CDR
+Yeah.
+
+000:02:27 CDR
+It's a little hard to see out my window here.
+
+000:02:33 PLT
+There's ten thousand feet and Mach point five.
+
+000:02:34 NASA
+Altitude and velocity report.
+
+000:02:40 CDR
+Point nine.
+
+000:02:45 PLT
+There's Mach one.
+
+000:02:46 CDR
+Going through nineteen thousand.
+
+000:02:47 NASA
+Altitude report, 19,000 ft.
+
+000:02:48 CDR
+OK we're throttling down.
+
+000:02:49 NASA
+Normal SSME thrust reduction during maximum dynamic pressure region.
+
+000:03:02 CDR
+Throttling up.
+
+000:03:03 NASA
+Throttle up to 104% after maximum dynamic pressure.
+
+000:03:03 PLT
+Throttle up.
+
+000:03:04 CDR
+Roger.
+
+000:03:05 PLT
+Feel that mother go.
+
+000:03:07 PLT
+Thirty-five thousand going through one point five
+
+000:03:10 CDR
+Reading four eighty six on mine.
+
+000:03:11 NASA
+Routine airspeed indicator check.
+
+000:03:12 PLT
+Yep, that's what I've got, too.
+
+000:03:15 CDR
+Roger, go at throttle up.
+
+000:03:16 NASA
+SSME at 104 percent.
+
+000:03:18 PLT
+Uhoh.
