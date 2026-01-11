@@ -23,6 +23,7 @@ For this it uses a complete Retrieval-Augmented Generation (RAG) pipeline.
 - evaluation.
     - **evaluate_pipeline.py**: Performs an end-to-end test of the entire pipeline.
         - Must be triggered manually setting the the environment variable os.environ["OPENAI_API_KEY"] = "voc-..."
+        - The function run_batch_evaluation() loads all the questions and evaluates them.
     - **evaluation_dataset.txt**: List of questions to evaluate. 
     - **evaluation_results.json**: Output of the evaluation.        
 

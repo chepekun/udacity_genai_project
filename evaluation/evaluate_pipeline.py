@@ -15,7 +15,7 @@ OUTPUT_FILE = Path(__file__).parent / "evaluation_results.json"
 
 
 def run_pipeline(question: str) -> Dict[str, str | Dict[str, float | str]]:
-    """End-to-end pipeline"""
+    """End-to-end pipeline evaluation"""
 
     collection, success, _ = rag_client.initialize_rag_system(
         chroma_dir=CHROMA_DIR,
@@ -63,10 +63,8 @@ def run_pipeline(question: str) -> Dict[str, str | Dict[str, float | str]]:
     }
 
 
-if __name__ == "__main__":
-    # NOTE: PLEASE SET THE API KEY TO RUN!
-    os.environ["OPENAI_API_KEY"] = "voc-..."
-
+def run_batch_evaluation():
+    """Evaluates all questions in the test dataset"""
     # read questions
     with open(INPUT_QUESTIONS) as f:
         questions = f.readlines()
@@ -79,3 +77,10 @@ if __name__ == "__main__":
     # export to json
     with open(OUTPUT_FILE, "w") as fp:
         json.dump(output, fp, indent=4)
+
+
+if __name__ == "__main__":
+    # NOTE: PLEASE SET THE API KEY TO RUN!
+    os.environ["OPENAI_API_KEY"] = "voc-..."
+
+    run_batch_evaluation()

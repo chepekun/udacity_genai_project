@@ -23,10 +23,10 @@
                 "chunk_index": "198"
             }
         ],
-        "answer": "During the Apollo 11 mission, astronauts Neil Armstrong and Edwin \"Buzz\" Aldrin were the two individuals who walked on the Moon. Neil Armstrong famously took the first steps on the lunar surface on July 20, 1969, followed by Buzz Aldrin. Neil Armstrong's iconic words as he stepped onto the Moon were, \"That's one small step for [a] man, one giant leap for mankind\" [Apollo 11 | 1969-07-21 02:53:07].\n\nThe Apollo 11 mission was a historic achievement in human space exploration, marking the first time humans set foot on another celestial body. The meticulous planning, precise execution, and technological advancements of the mission paved the way for future space exploration endeavors.",
+        "answer": "During the Apollo 11 mission, astronauts Neil Armstrong and Buzz Aldrin were the two crew members who walked on the Moon. Neil Armstrong was the first person to set foot on the lunar surface on July 20, 1969, followed by Buzz Aldrin. This historic event was witnessed by millions of people around the world and marked a significant milestone in human space exploration. [apollo_11: 1969-07-21 03:23:35]",
         "metrics": {
-            "faithfulness": 0.5555555555555556,
-            "answer_relevancy": 0.7648503491482593
+            "faithfulness": 0.0,
+            "answer_relevancy": 0.7569985303293308
         }
     },
     {
@@ -53,10 +53,10 @@
                 "chunk_index": "8"
             }
         ],
-        "answer": "In the Apollo 11 mission, the name of the lunar module was \"Eagle.\" The lunar module played a crucial role in landing astronauts Neil Armstrong and Edwin \"Buzz\" Aldrin on the lunar surface while Michael Collins remained in the command module orbiting the Moon. The Eagle successfully landed on the Moon on July 20, 1969, allowing Armstrong and Aldrin to take their historic first steps on the lunar surface. The Eagle module then lifted off from the Moon to rendezvous with the command module for the return journey to Earth.\n\n[Source: Apollo 11 Mission Transcript]",
+        "answer": "In the Apollo 11 mission, the name of the lunar module was \"Eagle.\" The lunar module was designed to land on the Moon's surface while the command module remained in lunar orbit with the astronaut crew. The Eagle successfully carried astronauts Neil Armstrong and Buzz Aldrin to the Moon's surface on July 20, 1969, making history as the first manned mission to land on the Moon.",
         "metrics": {
-            "faithfulness": 0.3333333333333333,
-            "answer_relevancy": 0.9864917978687898
+            "faithfulness": 0.2,
+            "answer_relevancy": 0.8755639618511104
         }
     },
     {
@@ -83,10 +83,10 @@
                 "chunk_index": "237"
             }
         ],
-        "answer": "The 'Sea of Tranquility' is a significant lunar mare on the Moon where the Apollo 11 mission landed in 1969. This area was chosen for its relatively flat and smooth terrain, making it a suitable location for the historic first human landing on the Moon. The landing site was specifically in the southwestern part of the Sea of Tranquility, known as the \"Tranquility Base.\"\n\nDuring the Apollo 11 mission, astronauts Neil Armstrong and Buzz Aldrin landed the Lunar Module (LM) named Eagle in the Sea of Tranquility, while astronaut Michael Collins remained in lunar orbit aboard the Command Module named Columbia. The landing site was carefully selected to ensure a safe touchdown and successful completion of the mission objectives, including Armstrong's famous first steps on the lunar surface.\n\nThe Sea of Tranquility provided a relatively smooth and level surface for the LM to land and for the astronauts to conduct their Extra-Vehicular Activity (EVA) or moonwalk. This historic event marked a significant milestone in human space exploration, showcasing the capabilities of NASA and the determination of the Apollo program to achieve the goal set by President John F. Kennedy to land a man on the Moon and return him safely to Earth.\n\n[Source: Apollo 11 Mission Transcripts]",
+        "answer": "The 'Sea of Tranquility' is a vast lunar mare located on the Moon's surface. It was the landing site for the Apollo 11 mission in July 1969. The Sea of Tranquility, also known as Mare Tranquillitatis, is a flat, dark region on the Moon that was chosen as the landing site due to its relatively smooth surface, which was crucial for the safe touchdown of the Lunar Module.\n\nDuring the Apollo 11 mission, astronauts Neil Armstrong and Buzz Aldrin landed the Lunar Module named Eagle in the Sea of Tranquility, making it the first crewed landing on the Moon. This historic event marked a significant milestone in human space exploration, as Neil Armstrong famously became the first person to set foot on the lunar surface, uttering the iconic words, \"That's one small step for man, one giant leap for mankind.\"\n\nThe Sea of Tranquility holds a special place in space history as the site where humans first walked on the Moon, opening up new frontiers in space exploration and inspiring generations to reach for the stars.",
         "metrics": {
-            "faithfulness": 0.07692307692307693,
-            "answer_relevancy": 0.4860532334992991
+            "faithfulness": 0.42857142857142855,
+            "answer_relevancy": 0.19343380696582727
         }
     },
     {
@@ -113,10 +113,10 @@
                 "chunk_index": "71"
             }
         ],
-        "answer": "During the Apollo 13 mission, several problems were encountered that led to a critical situation in space. One of the main issues was an oxygen tank explosion in the Service Module, which occurred on April 13, 1970, two days after the mission launched. This explosion caused a loss of oxygen supply, power, and water in the Command Module, forcing the crew to move to the Lunar Module to use it as a lifeboat. The crew had to navigate a series of challenges, including limited power, high levels of carbon dioxide, and the need to improvise solutions to ensure their safe return to Earth.\n\nThe crew, consisting of Jim Lovell, Jack Swigert, and Fred Haise, worked closely with Mission Control to troubleshoot the problems and make critical decisions to ensure their survival. They had to conserve resources, manage the spacecraft's systems, and navigate a safe trajectory back to Earth using the Lunar Module's propulsion system.\n\nDespite the life-threatening situation, the crew and Mission Control collaborated effectively to overcome the challenges and successfully re-entered Earth's atmosphere. The mission ended with a successful splashdown in the Pacific Ocean, and the crew was safely recovered by the USS Iwo Jima.\n\nOverall, the Apollo 13 mission showcased the resilience, ingenuity, and teamwork of both the astronauts and the ground control team in the face of adversity in space.\n\n[Source: Apollo 13 Mission Transcripts]",
+        "answer": "During the Apollo 13 mission, several problems arose that posed significant challenges to the crew and mission control. Here are some of the key issues encountered:\n\n1. Oxygen Tank Explosion: One of the main problems was the explosion of an oxygen tank in the Service Module, which occurred on April 13, 1970, two days after the mission began. This explosion led to a loss of oxygen supply, electrical power, and water in the Command Module, forcing the crew to move to the Lunar Module for their return trip to Earth.\n\n2. Power and Life Support Systems Failure: The explosion also caused a loss of power and life support systems in the Command Module, making it uninhabitable. The crew had to rely on the Lunar Module for their survival, which was only designed to support two astronauts for a limited time.\n\n3. Limited Resources: The crew faced challenges with limited resources such as power, water, and oxygen in the Lunar Module, which were not intended for a prolonged mission duration. They had to conserve these resources carefully to ensure their survival until reentry.\n\n4. Navigation and Course Correction: The explosion affected the spacecraft's trajectory, requiring precise course corrections to ensure a safe return to Earth. The crew and mission control had to work together to calculate and execute these critical maneuvers using limited resources.\n\n5. Cold Temperatures: The crew also faced cold temperatures in the spacecraft as they shut down non-essential systems to conserve power. This added to the discomfort and challenges they were already experiencing.\n\nOverall, the Apollo 13 mission encountered a series of complex and life-threatening problems that required quick thinking, ingenuity, and collaboration between the crew and mission control to ensure the safe return of the astronauts to Earth.",
         "metrics": {
             "faithfulness": 1.0,
-            "answer_relevancy": 0.8515816123465045
+            "answer_relevancy": 0.8802882911487271
         }
     },
     {
@@ -143,10 +143,10 @@
                 "chunk_index": "89"
             }
         ],
-        "answer": "During the Apollo missions, including Apollo 13, the spacecraft used a system called the Environmental Control System (ECS) to maintain a habitable environment for the astronauts. One crucial component of the ECS was the carbon dioxide (CO2) scrubbers, which were responsible for removing CO2 exhaled by the crew to prevent it from reaching dangerous levels.\n\nThe CO2 scrubbers on Apollo spacecraft consisted of canisters filled with a substance called lithium hydroxide (LiOH). When the astronauts exhaled, the CO2 in their breath would react with the LiOH in the scrubbers, forming lithium carbonate and water. This chemical reaction effectively removed the CO2 from the spacecraft's atmosphere.\n\nIn the event of a malfunction or depletion of the primary CO2 scrubbers, the astronauts had procedures in place to improvise and create makeshift scrubbers using available materials onboard. For example, during the Apollo 13 mission, the crew had to construct makeshift CO2 scrubbers using items like duct tape, plastic bags, and other materials to ensure the removal of CO2 from the spacecraft's atmosphere.\n\nThese improvised solutions were crucial in maintaining a safe environment for the astronauts during the mission. The ability to adapt and problem-solve in real-time highlights the resourcefulness and ingenuity of both the astronauts and the mission control teams.\n\n[apollo_13: 1970-04-14 04:03:02] [apollo_13: 1970-04-15 13:57:13] [apollo_13: 1970-04-14 23:02:03] [apollo_13: 1970-04-15 13:47:43] [apollo_13: 1970-04-14 03:12:33]",
+        "answer": "During the Apollo 13 mission, the astronauts had to improvise a way to deal with rising carbon dioxide levels in the spacecraft after an oxygen tank explosion. They needed to create makeshift carbon dioxide scrubbers using available materials on the spacecraft to ensure the crew's safety.\n\nOne of the solutions they came up with was to adapt the Command Module's square lithium hydroxide canisters to fit the Lunar Module's round openings. This involved using materials like tape and a plastic bag to seal the canisters in place and prevent the scrubbers from being sucked down against the screen.\n\nThe astronauts also used cue cards to form an arch over the top of the canister, which helped keep the bag from being sucked down against the screen. They then ran strips of tape across the top of the arch to anchor it in place.\n\nBy creatively repurposing materials and adapting existing equipment, the Apollo 13 crew successfully managed to create makeshift carbon dioxide scrubbers to maintain a habitable environment inside the spacecraft despite the challenging circumstances they faced.\n\n[apollo_13: 1970-04-15 13:57:13]",
         "metrics": {
-            "faithfulness": 0.6666666666666666,
-            "answer_relevancy": 0.47305047476481027
+            "faithfulness": 0.5714285714285714,
+            "answer_relevancy": 0.35454146752785426
         }
     },
     {
@@ -173,7 +173,7 @@
                 "chunk_index": "209"
             }
         ],
-        "answer": "I'm sorry, but the last sentence of Dick Scobee, the commander of the Challenger mission, is not available in the provided documents. If you have any other questions or need information on Apollo 11 or Apollo 13 missions, feel free to ask.",
+        "answer": "The last sentence spoken by Dick Scobee, the commander of the Space Shuttle Challenger mission (STS-51-L), was during the launch on January 28, 1986. Unfortunately, due to the tragic events that followed shortly after liftoff, the last words spoken by Dick Scobee were not captured in the official transcripts or recordings available. The Challenger disaster resulted in the loss of all seven crew members, including Dick Scobee, and the investigation that followed focused on the technical causes of the accident.",
         "metrics": {
             "faithfulness": 0.25,
             "answer_relevancy": 0.0

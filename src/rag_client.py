@@ -151,10 +151,27 @@ def retrieve_documents(
     return {k: v for k, v in results.items()}
 
 
+def get_indices_unique_documents(metadatas: List[Dict]):
+    """Used to filter out repeated documents"""
+    seen = set()
+    indices = []
+    for i, d in enumerate(metadatas):
+        key = tuple(sorted(d.items()))
+        if key not in seen:
+            seen.add(key)
+            indices.append(i)
+    return indices
+
+
 def format_context(documents: List[str], metadatas: List[Dict], max_charts: Optional[int] = 1500) -> str:
     """Format retrieved documents into context"""
     if not documents:
         return ""
+
+    # Filter repeated documents
+    valid_indices = get_indices_unique_documents(metadatas)
+    documents = [documents[i] for i in valid_indices]
+    metadatas = [metadatas[i] for i in valid_indices]
 
     # TODO->DONE: Initialize list with header text for context section
     parts: List[str] = ["DOCUMENTS", ""]

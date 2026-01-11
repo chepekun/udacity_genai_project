@@ -49,7 +49,7 @@ def test_llm_promt():
     messages = llm_client.generate_prompt_messages(user_message, RAG_CONTEXT, conversation_history)
 
     # check roles and added user question and context
-    for actual, expected in zip([m["role"] for m in messages], ["developer", "user", "assistant", "user", "assistant"]):
+    for actual, expected in zip([m["role"] for m in messages], ["system", "assistant", "user", "assistant", "user"]):
         assert actual == expected
-    assert messages[-2]["content"] == user_message
-    assert messages[-1]["content"] == RAG_CONTEXT
+    assert messages[-1]["content"] == user_message
+    assert messages[1]["content"] == RAG_CONTEXT
